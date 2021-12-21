@@ -32,13 +32,11 @@
 
 ---
 
-<details>
+
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="agudlc's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=agudlc&show_icons=true&hide_border=true" />
 
-</details>
-
-
+---
 
 [linkedin]: https://www.linkedin.com/in/franciscodelacolina-fullstack/
