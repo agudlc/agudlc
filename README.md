@@ -1,12 +1,12 @@
 ### Hi there, I'm Francisco 👋 
 
-## I'm a Argentinian, Developer, Audio Technician, Electromechanical Technician and a Student!!
+## I'm a Argentinian Developer and a Student!!
 
-- 🔭 I just I just finished Henry's web full stack bootcamp
-- 🌱 I’m currently learning Typescript and React Native 🤣
-- 👯 I am looking for a job in which I can grow
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to read and play guitar
+- 🔭 Im just finishing my second year of experience in Full Stack web development
+- 🌱 I’m currently learning Golang and being more advanced in the FrontEnd enviroment
+- 👯 I am growing and ever ready to be part of great projects
+- 🥅 2024 Goals: Expand more of my experience and work in other languages, be proficient with my english and work more in banckend projects
+- ⚡ Fun fact: I love to read and play tenis
 
 ### Connect with me:
 
