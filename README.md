@@ -1,12 +1,11 @@
 ### Hi there, I'm Francisco 👋 
 
-## I'm a Argentinian Developer and a Student!!
+## Full Stack Development / Startup Developer
 
-- 🔭 Im just finishing my second year of experience in Full Stack web development
-- 🌱 I’m currently learning Golang and being more advanced in the FrontEnd enviroment
-- 👯 I am growing and ever ready to be part of great projects
-- 🥅 2024 Goals: Expand more of my experience and work in other languages, be proficient with my english and work more in banckend projects
-- ⚡ Fun fact: I love to read and play tenis
+- 3 YOE Full Stack Developer with a deeper understanding of FrontEnd
+- Currently learning Python and Golang, looking for roles more focused on the Backend
+- Trying to get more side projects in my personal GitHub, but with a lot of contributions in private repos
+- Currently learning a lot with Boot.dev courses for Backend and expanding knowledge about advanced FrontEnd with FrontEnd Masters
 
 ### Connect with me:
 
@@ -19,25 +18,17 @@
 
 - JavaScript
 - TypeScript
-- Nextjs
-- Vuejs
-- Express
+- Nest.js
+- Vue
+- Node.js
 - Nestjs
-- git
+- Git and Github
 - English C2 in Reading and Listening
 
 <br />
 <br />
 
 ---
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  Don't worry about this i work a lot in private projects
-
-</details>
-
 
 
 [linkedin]: https://www.linkedin.com/in/franciscodelacolina-fullstack/
